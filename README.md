@@ -7,5 +7,4 @@ User Guide:
 - [SOW]()
 - [Python File]()
 - [ACD]()
-- [Technical Report]()
-- 
+- [Technical Report]() 
