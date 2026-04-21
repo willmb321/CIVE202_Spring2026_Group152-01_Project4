@@ -4,7 +4,7 @@ This project assesses the risk of natural disasters using the data from the Nati
 User Guide:
 - [Gantt Chart](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_152-01_Project4_GanttChart.pdf)
 - [TimeSheet](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_152-01_Project4_Timesheet.pdf)
-- [SOW]()
+- [SOW](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_Group152-01_Project4_SOW.docx)
 - [Python File](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_Group152-01_Project4_PythonCode.ipynb)
 - [ACD](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_Group152-01_Project4_ACD.pdf)
-- [Technical Report]() 
+- [Technical Report](https://github.com/willmb321/CIVE202_Spring2026_Group152-01_Project4/blob/main/CIVE202_Spring2026_Group152-01_Project4_Written_Report.docx) 
